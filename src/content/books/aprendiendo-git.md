@@ -5,7 +5,7 @@ img: aprendiendo-git.jpg
 readtime: 224
 description: Aprende a usar Git y GitHub para gestionar tus proyectos de código.
 buy:
-  mexico: https://a.co/d/48FppCg
+  spain: https://a.co/d/48FppCg
   usa: https://www.amazon.com/-/es/Miguel-%C3%81ngel-Dur%C3%A1n-Garc%C3%ADa/dp/B0D2LPMG6F
 ---
 

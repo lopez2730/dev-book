@@ -5,7 +5,7 @@ img: refactoring.jpg
 readtime: 355
 description: Buenas prácticas para refactorizar código
 buy:
-  mexico: https://a.co/d/frV3xwM
+  spain: https://a.co/d/frV3xwM
   usa: https://www.amazon.com/-/es/Martin-Fowler/dp/0321336380
 ---
 

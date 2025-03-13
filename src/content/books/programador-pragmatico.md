@@ -5,7 +5,7 @@ img: programador-pragmatico.jpg
 readtime: 344
 description: Un libro clásico para mejorar en programación
 buy:
-  mexico: https://a.co/d/5vhpAUo
+  spain: https://a.co/d/5vhpAUo
   usa: https://www.amazon.com/-/es/Andrew-Hunt/dp/020161622X
 ---
 
